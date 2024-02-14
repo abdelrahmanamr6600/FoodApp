@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="Favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="what_wouled_you_like_to_eat">What Wouled You Like To Eat?</string>
+    <string name="over_populate_items">Over Populate Items</string>
+    <string name="our_categories">Our Categories</string>
+</resources>
